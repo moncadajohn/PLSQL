@@ -1,2 +1,2 @@
 # PLSQL
-Scripts
+Scripts de prácticas PL/SQL
